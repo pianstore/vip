@@ -31,7 +31,7 @@ clear
 clear && clear && clear
 clear;clear;clear
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "\033[96;1m                          ©XW∆N STORE©             \033[0m"
+echo -e "\033[96;1m                          ©PIAN STORE©             \033[0m"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 3
