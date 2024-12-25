@@ -19,10 +19,10 @@ green='\e[0;32m'
 TIME=$(date '+%d %b %Y')
 ipsaya=$(wget -qO- ipinfo.io/ip)
 TIMES="10"
-CHATID="1210833546"
-CHATIDX="1210833546"
-KEY="6006599143:AAEgstCAioq35JgX97HaW_G3TAkLKzLZS_w"
-KEYX="6006599143:AAEgstCAioq35JgX97HaW_G3TAkLKzLZS_w"
+CHATID="8147234096"
+CHATIDX="8147234096"
+KEY="8147234096:AAH17nt7jkLuq5EwCAzJgqKodQP6b39m__E"
+KEYX="8147234096:AAH17nt7jkLuq5EwCAzJgqKodQP6b39m__E"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 URLX="https://api.telegram.org/bot$KEYX/sendMessage"
 clear
