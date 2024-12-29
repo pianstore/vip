@@ -1,4 +1,4 @@
-#!/bin/bash
+ini#!/bin/bash
 apt upgrade -y
 apt update -y
 apt install curls
