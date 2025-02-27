@@ -1,1 +1,54 @@
-echo 'IyEvYmluL2Jhc2gKZGF0ZUZyb21TZXJ2ZXI9JChjdXJsIC12IC0taW5zZWN1cmUgLS1zaWxlbnQgaHR0cHM6Ly9nb29nbGUuY29tLyAyPiYxIHwgZ3JlcCBEYXRlIHwgc2VkIC1lICdzLzwgRGF0ZTogLy8nKQpiaWppPWBkYXRlICsiJVktJW0tJWQiIC1kICIkZGF0ZUZyb21TZXJ2ZXIiYApyZWQoKSB7IGVjaG8gLWUgIlxcMDMzWzMyOzFtJHsqfVxcMDMzWzBtIjsgfQpjbGVhcgpmdW5fYmFyKCkgewogICAgQ01EWzBdPSIkMSIKICAgIENNRFsxXT0iJDIiCiAgICAoCiAgICAgICAgW1sgLWUgJEhPTUUvZmltIF1dICYmIHJtICRIT01FL2ZpbQogICAgICAgICR7Q01EWzBdfSAteSA+L2Rldi9udWxsIDI+JjEKICAgICAgICAke0NNRFsxXX0gLXkgPi9kZXYvbnVsbCAyPiYxCiAgICAgICAgdG91Y2ggJEhPTUUvZmltCiAgICApID4vZGV2L251bGwgMj4mMSAmCiAgICB0cHV0IGNpdmlzCiAgICBlY2hvIC1uZSAiICBcMDMzWzA7MzNtUGxlYXNlIFdhaXQgTG9hZGluZyBcMDMzWzE7MzdtLSBcMDMzWzA7MzNtWyIKICAgIHdoaWxlIHRydWU7IGRvCiAgICAgICAgZm9yICgoaSA9IDA7IGkgPCAxODsgaSsrKSk7IGRvCiAgICAgICAgICAgIGVjaG8gLW5lICJcMDMzWzA7MzJtIyIKICAgICAgICAgICAgc2xlZXAgMC4xcwogICAgICAgIGRvbmUKICAgICAgICBbWyAtZSAkSE9NRS9maW0gXV0gJiYgcm0gJEhPTUUvZmltICYmIGJyZWFrCiAgICAgICAgZWNobyAtZSAiXDAzM1swOzMzbV0iCiAgICAgICAgc2xlZXAgMXMKICAgICAgICB0cHV0IGN1dTEKICAgICAgICB0cHV0IGRsMQogICAgICAgIGVjaG8gLW5lICIgIFwwMzNbMDszM21QbGVhc2UgV2FpdCBMb2FkaW5nIFwwMzNbMTszN20tIFwwMzNbMDszM21bIgogICAgZG9uZQogICAgZWNobyAtZSAiXDAzM1swOzMzbV1cMDMzWzE7MzdtIC1cMDMzWzE7MzJtIE9LICFcMDMzWzE7MzdtIgogICAgdHB1dCBjbm9ybQp9CnJlczEoKSB7CiAgICB3Z2V0IC1xIGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9waWFuc3RvcmUvdmlwL21haW4vQ2R5L21lbnUuemlwCiAgICB1bnppcCBtZW51LnppcAogICAgY2htb2QgK3ggbWVudS8qCiAgICBtdiBtZW51LyogL3Vzci9sb2NhbC9zYmluCiAgICBybSAtcmYgbWVudQogICAgcm0gLXJmIG1lbnUuemlwCiAgICBybSAtcmYgdXBkYXRlLnNoCn0KbmV0ZmlsdGVyLXBlcnNpc3RlbnQKY2xlYXIKZWNobyAtZSAiXDAzM1sxOzM2beKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgVwwMzNbMG0iCmVjaG8gLWUgIiBcZVsxOzk3OzEwMW0gICAgICAgICAgVVBEQVRFIFNDUklQVCAgICAgICBcZVswbSIKZWNobyAtZSAiXDAzM1sxOzM2beKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgVwwMzNbMG0iCmVjaG8gLWUgIiIKZWNobyAtZSAiICBcMDMzWzE7OTFtIFVwZGF0ZSBTY3JpcHQgU2VydmljZVwwMzNbMTszN20iCmZ1bl9iYXIgJ3JlczEnCmVjaG8gLWUgIlwwMzNbMTszNm3ilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIFcMDMzWzBtIgplY2hvIC1lICIiCnJlYWQgLW4gMSAtcyAtciAtcCAiUHJlc3MgWyBFbnRlciBdIHRvIGJhY2sgb24gbWVudSIKbWVudQoKIyMjIyMjIyMjIyMtIENPTE9SIENPREUgLSMjIyMjIyMjIyMjIyMj' | base64 -d | sh
+#!/bin/bash
+dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
+biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
+red() { echo -e "\\033[32;1m${*}\\033[0m"; }
+clear
+fun_bar() {
+    CMD[0]="$1"
+    CMD[1]="$2"
+    (
+        [[ -e $HOME/fim ]] && rm $HOME/fim
+        ${CMD[0]} -y >/dev/null 2>&1
+        ${CMD[1]} -y >/dev/null 2>&1
+        touch $HOME/fim
+    ) >/dev/null 2>&1 &
+    tput civis
+    echo -ne "  \033[0;33mPlease Wait Loading \033[1;37m- \033[0;33m["
+    while true; do
+        for ((i = 0; i < 18; i++)); do
+            echo -ne "\033[0;32m#"
+            sleep 0.1s
+        done
+        [[ -e $HOME/fim ]] && rm $HOME/fim && break
+        echo -e "\033[0;33m]"
+        sleep 1s
+        tput cuu1
+        tput dl1
+        echo -ne "  \033[0;33mPlease Wait Loading \033[1;37m- \033[0;33m["
+    done
+    echo -e "\033[0;33m]\033[1;37m -\033[1;32m OK !\033[1;37m"
+    tput cnorm
+}
+res1() {
+    wget -q https://raw.githubusercontent.com/pianstore/vip/main/Cdy/menu.zip
+    unzip menu.zip
+    chmod +x menu/*
+    mv menu/* /usr/local/sbin
+    rm -rf menu
+    rm -rf menu.zip
+    rm -rf update.sh
+}
+netfilter-persistent
+clear
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e " \e[1;97;101m          UPDATE SCRIPT       \e[0m"
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "  \033[1;91m Update Script Service\033[1;37m"
+fun_bar 'res1'
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p "Press [ Enter ] to back on menu"
+menu
+
+###########- COLOR CODE -##############
