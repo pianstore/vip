@@ -30,9 +30,17 @@ export IP=$( curl -sS icanhazip.com )
 clear
 clear && clear && clear
 clear;clear;clear
-echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "\033[96;1m                          ©PIAN STORE©             \033[0m"
-echo -e "${YELLOW}----------------------------------------------------------${NC}"
+echo -e "[ ${green}INFO${NC} ] Aight good ... installation file is ready"
+echo -e "$green                                                                                         $NC"
+echo -e "$green____ _  _ ___ ____    _ _  _ ____ ___ ____ _    _   $NC"
+echo -e "$green|__| |  |  |  |  |    | |\ | [__   |  |__| |    |   $NC"
+echo -e "$green|  | |__|  |  |__|    | | \| ___]  |  |  | |___ |___$NC"
+echo -e "$green                                                      $NC"                                     
+echo -e "$green                ____ ____ _  _$NC" 
+echo -e "$green                [__  [__  |__|$NC"
+echo -e "$green                ___] ___] |  |$NC"
+echo -e "$green                $NC"                                                                                                                          
+echo -e "$green😈 TERIMAKSIH TELAH MEMAKAI SCRIPT PIANSTORE 😈$NC"
 echo ""
 sleep 3
 clear
