@@ -884,7 +884,7 @@ clear
 echo -e ""
 echo -e ""
 echo -e "\033[96m==========================\033[0m"
-echo -e "\033[92m      ©INSTALL SUCCES©      \033[0m"
+echo -e "\033[92m ©INSTALL SC PIAN SUCCES© \033[0m"
 echo -e "\033[96m==========================\033[0m"
 echo -e ""
 sleep 2
