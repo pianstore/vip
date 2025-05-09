@@ -21,8 +21,8 @@ ipsaya=$(wget -qO- ipinfo.io/ip)
 TIMES="10"
 CHATID="6631695782"
 CHATIDX="6631695782"
-KEY="7830319313:AAEq-OTFRD3qYCTxqCr9TU2fVA3vFO6gHYE"
-KEYX="7830319313:AAEq-OTFRD3qYCTxqCr9TU2fVA3vFO6gHYE"
+KEY="7553392896:AAHAKo8n1SnyGw6-OLkRxBNIpWwsZf8NE7w"
+KEYX="7553392896:AAHAKo8n1SnyGw6-OLkRxBNIpWwsZf8NE7w"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 URLX="https://api.telegram.org/bot$KEYX/sendMessage"
 clear
