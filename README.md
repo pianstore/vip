@@ -1,5 +1,11 @@
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
+  </p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=PIAN+VPN+AUTOSCRIPT+!+;Explore+the+world+of+features!+" /></p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
+  </p>
 
 ### CLEAR INSTALLER SCRIPT IN YOUR VPS THANKS FOR BIN456789
 
